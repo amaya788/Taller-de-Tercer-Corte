@@ -2,6 +2,6 @@
 
 Integrantes
 
-David Esteban Diaz Castro
-Ferney Arturo Amaya G´omez
+David Esteban Diaz Castro,
+Ferney Arturo Amaya Gómez y 
 Jhonny Alejandro Mejia
